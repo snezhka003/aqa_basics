@@ -1,4 +1,4 @@
-[![Java CI with Gradle](https://github.com/snezhka003/aqa_basics/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/snezhka003/aqa_basics/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/snezhka003/aqa_basics/actions/workflows/gradle.yml/badge.svg)](https://github.com/snezhka003/aqa_basics/actions/workflows/gradle.yml)
 
 ## Задача №1: CashBackHacker
 
