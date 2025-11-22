@@ -16,11 +16,11 @@ public class CashbackHackServiceTest {
     }
 
     @Test
-    public void shouldBeRemainIs1000() {
+    public void shouldBeRemainIs0() {
         CashbackHackService service = new CashbackHackService();
 
         int actual = service.remain(1000);
-        int expected = 1000;
+        int expected = 0;
 
         assertEquals(actual, expected);
     }
